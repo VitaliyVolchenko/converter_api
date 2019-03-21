@@ -44,8 +44,7 @@ class ConverterController extends Controller
       }
       //dd($result);
       //return response()->json(["result" => $result]);
-      return response()->json($result);      
-            
+      return response()->json($result);            
 
    }
 
